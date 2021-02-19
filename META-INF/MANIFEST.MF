@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: windows.Window
+Class-Path: JFrame/src/windows/Window.java
+
